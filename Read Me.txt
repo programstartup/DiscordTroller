@@ -1,5 +1,5 @@
-Thanks for installing and using my DiscordTroller
-All you have to do is start the executable file or if you got the Python version follow these instructions:
+Thanks for visiting my DiscordTroller Repository
+All you have to do is follow these instructions:
 
 In start type "CMD" and choose the Command prompt 
 In the command prompt type: "cd (wherever you saved the python file f.ex: Downloads/DiscordTroller)"
