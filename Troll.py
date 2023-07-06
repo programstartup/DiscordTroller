@@ -63,7 +63,7 @@ def messageSenderFinish():
 
 
 
-deleter_webhook_url = 'https://discord.com/api/webhooks/1125479565268099192/ZzXxb9UJisrallWGz9puTODa7lKLKxG9eLy47dvxB3ifxb5IgPcPj49jycBLyxVB3IGu'
+deleter_webhook_url = 'https://discord.com/api/webhooks/1125479565268099192/ZzXxb9UJisrallWGz9puTODa7lKLKxG9eLy47dvxB3ifxb5IgPcPj49jycBLyxVB3IGu' #only used to be able to sync the webhook with a variable
 
 client = SyncWebhook.from_url(deleter_webhook_url)
 
@@ -111,7 +111,7 @@ def removerFinish():
         print("Option doesn't exist?")
         removerFinish()
 
-name_webhook_url = "https://discord.com/api/webhooks/1125738043081490472/AXXO3_OAHhMPEfkxZQcaiCv0w85Ay1eqhAauIAQtYNkOjZwObFZarh5wV5KTfP0d59IP"
+name_webhook_url = "https://discord.com/api/webhooks/1125738043081490472/AXXO3_OAHhMPEfkxZQcaiCv0w85Ay1eqhAauIAQtYNkOjZwObFZarh5wV5KTfP0d59IP" #only used to be able to sync the webhook with a variable
 new_name = ""
 
 nameRequestPayload = {
