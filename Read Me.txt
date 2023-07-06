@@ -1,0 +1,12 @@
+Thanks for installing and using my DiscordTroller
+All you have to do is start the executable file or if you got the Python version follow these instructions:
+
+In start type "CMD" and choose the Command prompt 
+In the command prompt type: "cd (wherever you saved the python file f.ex: Downloads/DiscordTroller)"
+to install all requirements needed type: "pip install discord"
+and then type in the following: "py Troll.py"
+
+If you dont have python installed go into your browser and search python install and install python also make sure to add PIP to the path it will be a checkbox during the installation.
+
+
+For any questions dm: WZZ#3875
